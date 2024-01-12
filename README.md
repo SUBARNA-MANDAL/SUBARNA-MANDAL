@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Stent</h3>
 <h4 align="center">Reach me : subarnamanda17@gmail.com<h4/>
 <p align="center">
-    <img alt="Coding" width="400" height="400" src="aaa.gif">
+    <img alt="Coding" width="500" height="300" src="aaa.gif">
   </p>
 
 
