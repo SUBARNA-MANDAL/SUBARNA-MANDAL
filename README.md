@@ -1,6 +1,4 @@
-<p align="center">
-    <img alt="Coding" width="1000" height="250" src="https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif">
-  </p>
+![MasterHead](https:/https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif/)
 <h1 align="center">Hi 👋, I'm Subarna Mandal</h1>
 <h3 align="center">Computer Science Student</h3>
 <h4 align="center">Reach me : subarnamanda17@gmail.com<h4/>
