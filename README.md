@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" width="1200" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif">
+    <img alt="Coding" width="1000" height="250" src="https://creativeteachered.org/wp-content/uploads/2021/10/SteamBanner5.gif">
   </p>
 <h1 align="center">Hi 👋, I'm Subarna Mandal</h1>
 <h3 align="center">Computer Science Student</h3>
