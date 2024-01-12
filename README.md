@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subarna Mandal</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/541023-artists-on-tumblr-creative-coding-gif">
+<img align="right" alt="Coding" width="400" src="[https://wifflegif.com/gifs/541023-artists-on-tumblr-creative-coding-gif](https://gifer.com/en/7RLt)">
 
 - 📫 How to reach me **subarnamandal17@gmail.com**
 
