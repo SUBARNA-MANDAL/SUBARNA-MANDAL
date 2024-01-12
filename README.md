@@ -4,7 +4,7 @@
                      - 📫 How to reach me **subarnamandal17@gmail.com**
 
 <p align="center">
-    <img alt="Coding" width="200" height="200" src="aaa.gif">
+    <img alt="Coding" width="400" height="400" src="aaa.gif">
   </p>
 
 
