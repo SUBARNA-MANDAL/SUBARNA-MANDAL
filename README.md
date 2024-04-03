@@ -10,3 +10,4 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Subarna-Mandal&label=Profile%20Views&color=10&icon=5&pretty=true" />
 </a>
+[![](https://visitcount.itsvg.in/api?id=Subarna-Mandal&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
